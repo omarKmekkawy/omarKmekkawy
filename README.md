@@ -28,6 +28,6 @@ You can follow my on :
 It will be a pleasure if you support me on any of the following platforms, it will help (growing my projcts and supporting my [website](https://omar-mekkawy.net/)):
 - [Buy Me A Cofee](https://www.buymeacoffee.com/omarmekkawy)
 - You can visit my [Patreon](https://www.patreon.com/OmarMekkawy) page and become a Patreon.
-- You can do a one-time donation via PayPal at [Paypal Donate 2 Euro](https://www.paypal.com/paypalme/OmarKhaledMekkawy/2)
+- You can do a one-time donation via PayPal at [Donate Using Paypal](https://www.paypal.me/OmarKhaledMekkawy)
 
 Thanks!
