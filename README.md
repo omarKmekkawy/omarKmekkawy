@@ -21,8 +21,8 @@ You can follow my on :
 - My [Youtube Channel](https://www.youtube.com/OmarMekkawy)
  
 ## My Website
-- [Omar Mekkawy's Blog](https://omar-mekkawy.net/) (Arabic Language)
-- [Omar Mekkawy's Wiki](https://en.omar-mekkawy.net/) (English Language)
+- [Omar Mekkawy's Blog](https://omar-mekkawy.com/) (Arabic Language)
+- [Omar Mekkawy's Wiki](https://en.omar-mekkawy.com/) (English Language)
 
 ### Support Me
 It will be a pleasure if you support me on any of the following platforms, it will help (growing my projcts and supporting my [website](https://omar-mekkawy.net/)):
