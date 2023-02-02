@@ -1,7 +1,7 @@
 ### Omar Mekkawy
 
 <p align="center">
-  <img width="100%" height="50%" src="./Images/Intro.jpg">
+  <img width="80%" height="50%" src="./Images/Intro.jpg">
 </p>
 
 Hi, I am Omar Mekkawy. I am 27 years old. I got bachelor of engineering degree with (Very Good) grade.
