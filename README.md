@@ -4,7 +4,11 @@
   <img width="80%" height="50%" src="./Images/Intro.jpg">
 </p>
 
-Hi, I am Omar Mekkawy. I am 29 years old. I got bachelor of engineering degree with (Very Good) grade.
+<br>
+<img src="https://komarev.com/ghpvc/?username=omarKmekkawy&label=Profile%20views&color=0e75b6&style=flat" alt="omarKmekkawy" />
+</p>
+
+Hi, I am Omar Mekkawy. I am an enthusiastic computer engineer with great knowledge in embedded systems, C programming, BMS (battery management systems), communication protocols, hardware reverse engineering, communication protocols reverse engineering, PCB design, and laboratory equipment.
 
 My repository is specialized in these topics:
 - Embedded Systems
